@@ -88,5 +88,5 @@ This project is licensed under the **MIT License**.
 ---
 
 📌 **Author**: S B SAGARA
-📌 **GitHub**: [Your GitHub Profile Link]
+📌 **GitHub**: https://github.com/sbsagar07/google-sheets-clone.git
 
